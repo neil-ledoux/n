@@ -81,7 +81,7 @@ main {
 }
 
 .column ul li a {
-    display: flex;
+    display: flex; 
     align-items: center;
 }
 
@@ -131,7 +131,7 @@ main {
 }
 
 .rss-source a {
-    color: #61afef !important;
+    color: #E97451 !important;
     font-size: 0.8em;
     text-decoration: none;
     text-align: left;
