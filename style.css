@@ -10,7 +10,7 @@ body {
 
 /* Links */
 a {
-    color: #D46161;
+    color: #D98686;
     text-decoration: none;
     font-weight: 300;
     transition: color 0.3s ease;
@@ -82,7 +82,7 @@ main {
 
 .column ul li a {
     display: flex; 
-    align-items: center;
+    align-items: center; color: #D98686;
 }
 
 .column ul li i {
@@ -96,7 +96,7 @@ main {
     content: '';
     display: inline-block;
     width: 20px;
-    margin-right: 10px;
+    margin-right: 10px;color: #D98686;
 }
 
 /* RSS Styles */
@@ -109,7 +109,7 @@ main {
 }
 
 .rss-item a {
-    color: #D46161;
+   color: #D98686;
     text-decoration: none;
     margin-bottom: 6px;
     display: block;
@@ -131,7 +131,7 @@ main {
 }
 
 .rss-source a {
-    color: #D46161 !important;
+    color: #D98686 !important;
     font-size: 0.8em;
     text-decoration: none;
     text-align: left;
